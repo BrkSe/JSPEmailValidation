@@ -1,4 +1,4 @@
-JSPEmailValidation 
+JSPEmailValidation Email Regex Validation
 JSP Email Kontrolü
 ==================
 
